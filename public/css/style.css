@@ -1,0 +1,69 @@
+
+.cls-register {
+    width: 1296px;
+    margin-left: -7%;
+}
+.cls-register nav{
+    width: 100%;
+}
+.cls-login {
+    margin-top: 5%;
+}
+.cls-nav-li li {
+    margin-right: 90px;
+}
+.cls-btn-login {
+    margin-left: 22%;
+}
+.cls-login-img {
+    margin-left: 38%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.cls-form-login {
+    margin-left: 15%;
+}
+#username {
+    font-size: 18px;
+}
+#password {
+    font-size: 18px;
+}
+#password_confirm {
+    font-size: 18px;
+}
+p {
+    font-size: 25px;
+}
+.cls-info {
+    margin-left: 5%;
+}
+.cls-lb-info {
+    color: blue;
+}
+.warning {
+    color: #f2a304;
+}
+.normal {
+    color: blue;
+}
+.danger {
+    color: red;
+}
+body {
+    font-family: "Arial";
+}
+.cls-temp-warning {
+    margin-left: 5%;
+}
+.cls-chart-temp {
+    width: 60%;
+    margin-left: 19%;
+    margin-top: 1%;
+}
+.cls-chart-ph {
+    width: 60%;
+    margin-left: 19%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
